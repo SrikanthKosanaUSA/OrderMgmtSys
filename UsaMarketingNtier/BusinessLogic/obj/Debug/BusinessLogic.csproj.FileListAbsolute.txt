@@ -1,0 +1,7 @@
+c:\users\srikanth\documents\visual studio 2013\Projects\UsaMarketingNtier\BusinessLogic\bin\Debug\BusinessLogic.dll
+c:\users\srikanth\documents\visual studio 2013\Projects\UsaMarketingNtier\BusinessLogic\bin\Debug\BusinessLogic.pdb
+c:\users\srikanth\documents\visual studio 2013\Projects\UsaMarketingNtier\BusinessLogic\bin\Debug\DataAccess.dll
+c:\users\srikanth\documents\visual studio 2013\Projects\UsaMarketingNtier\BusinessLogic\bin\Debug\DataAccess.pdb
+c:\users\srikanth\documents\visual studio 2013\Projects\UsaMarketingNtier\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+c:\users\srikanth\documents\visual studio 2013\Projects\UsaMarketingNtier\BusinessLogic\obj\Debug\BusinessLogic.dll
+c:\users\srikanth\documents\visual studio 2013\Projects\UsaMarketingNtier\BusinessLogic\obj\Debug\BusinessLogic.pdb

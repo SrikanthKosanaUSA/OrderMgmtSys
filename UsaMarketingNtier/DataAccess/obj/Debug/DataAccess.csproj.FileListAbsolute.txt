@@ -1,0 +1,5 @@
+c:\users\srikanth\documents\visual studio 2013\Projects\UsaMarketingNtier\DataAccess\bin\Debug\DataAccess.dll
+c:\users\srikanth\documents\visual studio 2013\Projects\UsaMarketingNtier\DataAccess\bin\Debug\DataAccess.pdb
+c:\users\srikanth\documents\visual studio 2013\Projects\UsaMarketingNtier\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+c:\users\srikanth\documents\visual studio 2013\Projects\UsaMarketingNtier\DataAccess\obj\Debug\DataAccess.dll
+c:\users\srikanth\documents\visual studio 2013\Projects\UsaMarketingNtier\DataAccess\obj\Debug\DataAccess.pdb
